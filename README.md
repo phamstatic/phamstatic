@@ -1,7 +1,5 @@
 ### Welcome to my profile!
 
-Computer Science Alumni from the University of Houston. 🐾
-
-I'm currently working as a full-stack software engineer.
+I'm a Computer Science Alumni from the University of Houston. 🐾
 
 ![Cat gif](https://github.com/phamstatic/phamstatic/blob/main/Cat.gif)
